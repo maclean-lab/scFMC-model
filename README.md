@@ -32,7 +32,7 @@ Data used in the analysis is included in the file (?a.xlsx). This data is from..
 
 ### Project contents
  - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1101/2022.06.15.496246)
- - `Developmental_hematopoietic_stem_cell_fate_decisions_explain_clonal_dynamics_over_lifetime.ipynb` :  Jupyter notebook containing code blocks for all simulations and figures in the paper. Code blocks within the notebook are intended to be run independently. 
+ - `Developmental_hematopoietic_stem_cell_fate_decisions_explain_clonal_dynamics_over_lifetime.ipynb` :  Jupyter notebook containing code blocks for all simulations and figures in the paper.
  - `?.xlsx` : data used in the analysis, see...
 
 ### Acknowledgments
