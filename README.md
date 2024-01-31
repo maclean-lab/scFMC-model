@@ -3,15 +3,15 @@
 ### Citation
 If you use FMCs_for_HSCs in your research, please cite the bioRxiv preprint avaible [here](https://doi.org/10.1158/2326-6066.CIR-22-0617):
 
-J Kreger, D Shibata, AL MacLean (2023).
+J Kreger, JA Mooney, D Shibata, AL MacLean (2024).
 Developmental hematopoietic stem cell fate decisions explain clonal dynamics over lifetime.
 
 The bioRxiv version is available [here](https://doi.org/10.1101/2022.06.15.496246). 
 
 ### Overview 
-This repository contains code used in the analysis of clonal dynamics of hematopoietic stem cells. The code is written in Julia (tested on versions 1.8.1) and is presented in a Jupyter notebook (Developmental_hematopoietic_stem_cell_fate_decisions_explain_clonal_dynamics_over_lifetime.ipynb).
+This repository contains code used in the analysis of clonal dynamics of hematopoietic stem cells. The code is written in Julia (tested on versions 1.8.1) and is presented in Jupyter notebooks.
 
-Data used in the analysis is included in the file (?.xlsx). This data is from...
+Data used in the analysis is included in the data folder and is all publicly available on GEO, see Table 1 in the main text for details.
 
 ### Requirements 
  - Julia (version 1.8.1) or newer
@@ -29,11 +29,14 @@ Data used in the analysis is included in the file (?.xlsx). This data is from...
  - [ColorSchemes.jl](https://juliagraphics.github.io/ColorSchemes.jl/stable/basics/)
  - [Plots.jl; pyplot()](https://docs.juliaplots.org/stable/)
  - [DelimitedFiles.jl](https://docs.julialang.org/en/v1/stdlib/DelimitedFiles/)
+ - [DataFrames.jl](https://dataframes.juliadata.org/stable/)
 
 ### Project contents
  - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1101/2022.06.15.496246)
- - `Developmental_hematopoietic_stem_cell_fate_decisions_explain_clonal_dynamics_over_lifetime.ipynb` :  Jupyter notebook containing code blocks for all simulations and figures in the paper.
- - `?.xlsx` : data used in the analysis, see...
+ - `data_processing.ipynb` :  Jupyter notebook containing code for basic methylation data processing.
+ - `model_simulation.ipynb` :  Jupyter notebook containing code for all model simulations and figures in the paper.
+ - `data` : folder for data used in the analysis, see Table 1 in the main text for details.
+ - `simulation files` : folder for simulation files used in the analysis. 
 
 ### Acknowledgments
 We would like to thank... Figures... were created with [BioRender](https://biorender.com/).
