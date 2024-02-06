@@ -35,8 +35,8 @@ Data used in the analysis is included in the data folder and is all publicly ava
  - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1101/2022.06.15.496246)
  - `data_processing.ipynb` :  Jupyter notebook containing code for basic methylation data processing.
  - `model_simulation.ipynb` :  Jupyter notebook containing code for all model simulations and figures in the paper.
- - `data` : folder for data used in the analysis, see Table 1 in the main text for details.
- - `simulation files` : folder for simulation files used in the analysis. 
+ - `data` : folder for data used in the analysis, see Table 1 in the main text for details (mz = monozygotic twins, dz = dizygotic twins, ur = unrelated individuals).
+ - `simulation files` : folder for simulation files used in the analysis (mz = monozygotic twins, dz = dizygotic twins, ur = unrelated individuals). 
 
 ### Acknowledgments
 We would like to thank... Figures... were created with [BioRender](https://biorender.com/).
