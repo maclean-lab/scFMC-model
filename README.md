@@ -11,7 +11,7 @@ The bioRxiv version is available [here](https://doi.org/10.1101/2022.06.15.49624
 ### Overview 
 This repository contains code used in the analysis of clonal dynamics of hematopoietic stem cells. The code is written in Julia (tested on versions 1.8.1) and is presented in Jupyter notebooks.
 
-Data used in the analysis is included in the data folder and is all publicly available on GEO, see Table 1 in the main text for details.
+Data used in the analysis is included in the data folder and is publicly available on GEO, see Table 1 in the main text for details.
 
 ### Requirements 
  - Julia (version 1.8.1) or newer
