@@ -1,10 +1,10 @@
-# Developmental hematopoietic stem cell fate decisions explain clonal dynamics over lifetime
+# Developmental hematopoietic stem cell variation explains clonal hematopoiesis later in life
 
 ### Citation
-If you use FMCs_for_HSCs in your research, please cite the bioRxiv preprint avaible [here](https://doi.org/10.1158/2326-6066.CIR-22-0617):
+If you use scFMC-model in your research, please cite the bioRxiv preprint avaible [here](https://doi.org/10.1158/2326-6066.CIR-22-0617):
 
 J Kreger, JA Mooney, D Shibata, AL MacLean (2024).
-Developmental hematopoietic stem cell fate decisions explain clonal dynamics over lifetime.
+Developmental hematopoietic stem cell variation explains clonal hematopoiesis later in life.
 
 The bioRxiv version is available [here](https://doi.org/10.1101/2022.06.15.496246). 
 
