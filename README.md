@@ -1,12 +1,12 @@
 # Developmental hematopoietic stem cell variation explains clonal hematopoiesis later in life
 
 ### Citation
-If you use scFMC-model in your research, please cite the bioRxiv preprint avaible [here](https://doi.org/10.1158/2326-6066.CIR-22-0617):
+If you use scFMC-model in your research, please cite the bioRxiv preprint avaible [here](https://doi.org/10.1101/2024.03.02.583106):
 
 J Kreger, JA Mooney, D Shibata, AL MacLean (2024).
 Developmental hematopoietic stem cell variation explains clonal hematopoiesis later in life.
 
-The bioRxiv version is available [here](https://doi.org/10.1101/2022.06.15.496246). 
+The bioRxiv version is available [here](https://doi.org/10.1101/2024.03.02.583106). 
 
 ### Overview 
 This repository contains code used in the analysis of clonal dynamics of hematopoietic stem cells. The code is written in Julia (tested on versions 1.8.1) and is presented in Jupyter notebooks.
@@ -32,7 +32,7 @@ Data used in the analysis is included in the data folder and is publicly availab
  - [DataFrames.jl](https://dataframes.juliadata.org/stable/)
 
 ### Project contents
- - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1101/2022.06.15.496246)
+ - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1101/2024.03.02.583106)
  - `data_processing.ipynb` :  Jupyter notebook containing code for basic methylation data processing.
  - `model_simulation.ipynb` :  Jupyter notebook containing code for all model simulations and figures in the paper.
  - `data` : folder for data used in the analysis, see Table 1 in the main text for details (mz = monozygotic twins, dz = dizygotic twins, ur = unrelated individuals).
