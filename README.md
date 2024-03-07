@@ -9,7 +9,7 @@ Developmental hematopoietic stem cell variation explains clonal hematopoiesis la
 The bioRxiv version is available [here](https://doi.org/10.1101/2024.03.02.583106). 
 
 ### Overview 
-This repository contains code used in the analysis of clonal dynamics of hematopoietic stem cells. The code is written in Julia (tested on versions 1.8.1) and is presented in Jupyter notebooks.
+This repository contains code used in the analysis of clonal dynamics of hematopoietic stem cells. The code is written in Julia (tested on version 1.8.1) and is presented in Jupyter notebooks.
 
 Data used in the analysis is included in the data folder and is publicly available on GEO, see Table 1 in the main text for details.
 
@@ -39,7 +39,7 @@ Data used in the analysis is included in the data folder and is publicly availab
  - `simulation files` : folder for simulation files used in the analysis (mz = monozygotic twins, dz = dizygotic twins, ur = unrelated individuals). 
 
 ### Acknowledgments
-We would like to thank... Figures... were created with [BioRender](https://biorender.com/).
+We would like to thank all members of the MacLean lab.
 
 ### Contributors
 <a href="https://github.com/maclean-lab/FMCs_for_HSCs/graphs/contributors">
