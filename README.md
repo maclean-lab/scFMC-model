@@ -1,10 +1,10 @@
 # Developmental hematopoietic stem cell variation explains clonal hematopoiesis later in life
 
 ### Citation
-If you use scFMC-model in your research, please cite the bioRxiv preprint avaible [here](https://doi.org/10.1101/2024.03.02.583106):
+If you use scFMC-model in your research, please cite the Nature Communications paper [here](https://doi.org/10.1038/s41467-024-54711-2).
 
 J Kreger, JA Mooney, D Shibata, AL MacLean (2024).
-Developmental hematopoietic stem cell variation explains clonal hematopoiesis later in life.
+Developmental hematopoietic stem cell variation explains clonal hematopoiesis later in life. Nat Commun 15, 10268 (2024). https://doi.org/10.1038/s41467-024-54711-2
 
 The bioRxiv version is available [here](https://doi.org/10.1101/2024.03.02.583106). 
 
@@ -32,7 +32,7 @@ Data used in the analysis is included in the data folder and is publicly availab
  - [DataFrames.jl](https://dataframes.juliadata.org/stable/)
 
 ### Project contents
- - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1101/2024.03.02.583106)
+ - `README.md` : this file with information about the repository and [paper](https://doi.org/10.1038/s41467-024-54711-2)
  - `data_processing.ipynb` :  Jupyter notebook containing code for basic methylation data processing.
  - `model_simulation.ipynb` :  Jupyter notebook containing code for all model simulations and figures in the paper.
  - `data` : folder for data used in the analysis, see Table 1 in the main text for details (mz = monozygotic twins, dz = dizygotic twins, ur = unrelated individuals).
